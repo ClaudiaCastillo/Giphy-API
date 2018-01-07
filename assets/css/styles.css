@@ -1,7 +1,8 @@
 body {
   font-family: 'Anton', sans-serif;
   background: url(../images/background_img1.jpg) no-repeat center center / cover fixed;
-  background-size: 100%; 
+  background-size: 100%;  
+  font-size: 25px;
 }
 
 #cartoon-btns {

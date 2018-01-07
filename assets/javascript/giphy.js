@@ -122,6 +122,8 @@ Append the default image and rating together in the DIV and the display that to 
 
     loadBtns(cartoons);
 
+    $("#cartoon-input").val('');
+
   });
 
   loadBtns(cartoons);
